@@ -8,4 +8,4 @@ Includes:
 - Fine-tuned DistilBERT
 - Evaluation metrics
 
-Run notebooks in order to reproduce results.
+Run AI_LLM_Group_2_Code.ipynb in order to reproduce results.
